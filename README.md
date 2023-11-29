@@ -1,4 +1,4 @@
-# docker-n-containers
+# Practice 4 - Docker and containers
 
 Let's create a Docker contains from an Node.js web application. In this practice, you will learn about creating Docker containers and
 running them. Along the way, you will learn about the Express.js web development framework.
