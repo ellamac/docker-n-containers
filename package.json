@@ -1,0 +1,14 @@
+{
+  "name": "docker-n-containers",
+  "version": "1.0.0",
+  "description": "codeacademy exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ella Mäkelä",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
